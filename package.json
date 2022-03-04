@@ -1,0 +1,14 @@
+{
+  "name": "ts-intro",
+  "version": "1.0.0",
+  "description": "Proyecto en typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "M",
+  "license": "ISC"
+}
